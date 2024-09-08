@@ -1,0 +1,93 @@
+{
+  "users": {
+    "6283841099064@s.whatsapp.net": {
+      "hitcmd": 0,
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6283123448708@s.whatsapp.net": {
+      "hitcmd": 7,
+      "afkTime": -1,
+      "afkReason": "",
+      "attackdigi": 0,
+      "DarahOrang": 100,
+      "tp": 0,
+      "bits": 0,
+      "kenyang": 0,
+      "lahan": 0,
+      "happy": 0,
+      "batu": 0,
+      "kayu": 0,
+      "digivice": false,
+      "recoverplug": 0,
+      "apajob": false,
+      "job": "nganggur",
+      "rumah": 0,
+      "setname": "Dgf - dev",
+      "depositmonay": 0,
+      "nabung": 0,
+      "card": "none"
+    },
+    "6285656806260@s.whatsapp.net": {
+      "hitcmd": 1,
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "62882017648934@s.whatsapp.net": {
+      "hitcmd": 0,
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6287826292008@s.whatsapp.net": {
+      "hitcmd": 0,
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6287840346065@s.whatsapp.net": {
+      "hitcmd": 0,
+      "afkTime": -1,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "120363303234224012@g.us": {
+      "isBanned": false,
+      "antilinkgc": false
+    },
+    "6283123448708@s.whatsapp.net": {
+      "isBanned": false,
+      "antilinkgc": false
+    }
+  },
+  "game": {
+    "tebaklagu": [],
+    "kuismath": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "tebakkalimat": [],
+    "tebaklirik": [],
+    "tebaktebakan": [],
+    "tebakbendera": [],
+    "tebakbendera2": [],
+    "tebakkimia": [],
+    "tebakasahotak": [],
+    "tebaksiapakahaku": [],
+    "tebaksusunkata": [],
+    "tebaktekateki": [],
+    "lontong": [],
+    "lontong_desk": []
+  },
+  "database": {},
+  "settings": {
+    "6283117190494@s.whatsapp.net": {
+      "autoread": false,
+      "public": true,
+      "welcome": false,
+      "setkota": "Makassar",
+      "setreply": 1
+    }
+  },
+  "setting": {},
+  "others": {},
+  "sticker": {}
+}
